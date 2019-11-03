@@ -56,7 +56,7 @@
 ## Monitoring and Logging
 
  - **[Course]** Monitoring and Alerting with Prometheus -
-   [https://onlinecoursebay.com/monitoring-and-alerting-with-prometheus-udemy-free-download/](https://onlinecoursebay.com/monitoring-and-alerting-with-prometheus-udemy-free-download/)
+   [https://medium.com/@aleks.yenin/monitoring-and-alerting-for-devops-prometheus-grafana-telegram-to-keep-your-jira-and-aef72969afde](https://medium.com/@aleks.yenin/monitoring-and-alerting-for-devops-prometheus-grafana-telegram-to-keep-your-jira-and-aef72969afde)
  - **[Tutorial]** Monitoring with Prometheus -
    [https://dzone.com/articles/monitoring-with-prometheus](https://dzone.com/articles/monitoring-with-prometheus)
  - **[Book]** Prometheus UP and Running -
@@ -75,8 +75,7 @@
 ## Web Servers
 ### Nginx
 
- - **[Course]** Nginx Fundamentals -
-   [http://coursesdaddy.com/nginx-fundamentals-high-performance-servers-scratch-download-2/](http://coursesdaddy.com/nginx-fundamentals-high-performance-servers-scratch-download-2/)
+ - **[Course]** Nginx Zero to Hero guide [https://www.eduonix.com/courses/Software-Development/practical-nginx-the-zero-to-hero-guide?coupon_code=QC15](https://www.eduonix.com/courses/Software-Development/practical-nginx-the-zero-to-hero-guide?coupon_code=QC15)
 
 ## Cluster Management
 ### Kubernetes
